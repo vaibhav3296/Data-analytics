@@ -16,15 +16,21 @@ electric vehicles (EVs), and green infrastructure.
 ## Input Files:
 
 1. **Vehicle Population Dataset** (Excel file):
-    ○ Contains information about vehicle categories, population, and trends across regions.
-    ○ Key columns:
+
+   ○ Contains information about vehicle categories, population, and trends across regions.
+   
+   ○ Key columns:
+   
        ■ Year: Year of data collection.
        ■ Region: Region in Maharashtra.
        ■ Private Vehicles TOTAL: Total private vehicles.
        ■ Commercial vehicles TOTAL: Total commercial vehicles.
        ■ Vehicle-specific categories (e.g., Motorcycles, Scooters, etc.).
-2. **Environmental Data** (Included in Research Document):
+       
+3. **Environmental Data** (Included in Research Document):
+
     ○ LSI/MSI and pollution levels in different cities.
+    
     ○ Regional vehicle registration and pollution load data.
 
 ## Output Files:
