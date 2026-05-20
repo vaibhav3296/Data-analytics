@@ -1,7 +1,5 @@
 # Vehicle Trends and Infrastructure Planning
 
-# Project Title: Vehicle Trends and Infrastructure Planning
-
 By: Vaibhav Magoo
 
 ## Description:
